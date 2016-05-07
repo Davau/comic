@@ -1,2 +1,2 @@
 # comic
-漫画app采用APICloud开发
+开发中.......
